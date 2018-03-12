@@ -1,2 +1,3 @@
-#MyWeb
-This is my website demo
+#RCCGHMPCodingSchool
+Ebenezer Ndukwe's Assignment at #RCCGHMPCodingSchool
+First Assignment
